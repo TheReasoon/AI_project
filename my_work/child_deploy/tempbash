@@ -1,0 +1,3 @@
+#cp ../out/target/n7v1/voyage/obj/STATIC_LIBRARIES/pose_det_intermediates/pose_det.a /home/zero/share/pose_deploy
+# cp ../out/target/n7v1/voyage/rootfs/usr/lib/libpose_det.so /home/zero/share/lib_tai8010
+cp ../out/target/n7v1/locspd/rootfs/usr/lib/libpose_det.so /home/pyc_user/pyc_share
